@@ -1,2 +1,1 @@
-# My-repo
-demo-repo-for-hng-internship
+this is a requirement for the joining 3 months internship program at HNG
