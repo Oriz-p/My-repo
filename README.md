@@ -1,1 +1,1 @@
-this is a requirement for the joining 3 months internship program at HNG
+this is a requirement for joining the 3 months internship program at HNG
